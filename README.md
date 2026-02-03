@@ -1,3 +1,6 @@
+
 ![GitHub Stats](./profile/stats.svg)
+
 ![Top Langs](./profile/top-langs.svg)
-- [smadonkuan.github.io](https://github.com/smadonkuan/smadonkuan.github.io) — 個人部落格
+
+[![Blog](https://img.shields.io/badge/%20部落格-smadonkuan.github.io-2ea44f?style=flat-square&logo=github&logoColor=white)](https://smadonkuan.github.io)
